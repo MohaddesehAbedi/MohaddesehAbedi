@@ -2,9 +2,6 @@
 - 👀 I’m interested in solving complex problems with data
 - 🌱 I’m currently focused on mastering Python and machine learning
 - 💞️ My key areas of interest include data visualization, predictive modeling, and using data-driven insights to improve decision-making.
-- 📫 How to reach me abedi.m1989@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MohaddesehAbedi/MohaddesehAbedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
